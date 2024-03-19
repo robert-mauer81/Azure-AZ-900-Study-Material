@@ -1,7 +1,8 @@
 # AZ-900: Describe cloud concepts (25–30%)
 
 ## Describe cloud computing
-* [Define cloud computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/)
+* [Microsoft Define cloud computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/)
+   *[AWS Define cloud computing](https://aws.amazon.com/what-is-cloud-computing/)    
 * [Describe the shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 * [Define cloud models](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/), including:
     * [public](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-public-cloud/)
