@@ -4,7 +4,7 @@
 * [Microsoft Define cloud computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/), including:
    * [AWS Define cloud computing](https://aws.amazon.com/what-is-cloud-computing/)     
 * [Describe the shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility), including:
-    * [Azure Shared Responsibility Model: Real World Examples & Best Practices](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/)
+    * [Division of responsibilty]([https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Division%20of%20Responsibilities))
 * [Define cloud models](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/), including:
     * [public](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-public-cloud/)
     * [private](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-private-cloud/)
