@@ -6,6 +6,8 @@
 * [Describe the shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility), including:
     * [Division of responsibilty](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Division%20of%20Responsibilities)
     * [Responsibilties Under SaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20Under%20SaaS)
+    * [Responsibilities Under PaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20under%20IaaS)
+    * [Responsibilities Under IaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20under%20PaaS)
 * [Define cloud models](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/), including:
     * [public](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-public-cloud/)
     * [private](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-private-cloud/)
