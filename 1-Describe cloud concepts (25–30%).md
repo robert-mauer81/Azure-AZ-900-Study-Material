@@ -8,6 +8,7 @@
     * [Responsibilties Under SaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20Under%20SaaS)
     * [Responsibilities Under PaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20under%20PaaS)
     * [Responsibilities Under IaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20under%20IaaS)
+    * [What the customer and Microsoft are always responsible for](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Table%201%3A-,Microsoft%20and%20customer%20responsibilities%20in%20SaaS%2C%20PaaS%2C%20and%20IaaS,-Details%20of%20customer)
 * [Define cloud models](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/), including:
     * [public](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-public-cloud/)
     * [private](https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-private-cloud/)
