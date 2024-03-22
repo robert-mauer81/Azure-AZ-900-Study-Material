@@ -3,9 +3,6 @@
 ## Describe cloud computing
 * [Microsoft Define cloud computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/), including:
    * [AWS Define cloud computing](https://aws.amazon.com/what-is-cloud-computing/)     
-<p align="center">
-  <img src="https://github.com/robert-mauer81/Azure-AZ-900-Study-Material/assets/156836691/84385480-17ea-446a-abae-b8329705a8ba" hieght="200% width="200%>
-
 * [Describe the shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility), including:  
     * [Responsibilities Under SaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20Under%20SaaS)
     * [Responsibilities Under PaaS](https://www.corestack.io/azure-security-tools/azure-shared-responsibility-model/#:~:text=Responsibilities%20under%20PaaS)
