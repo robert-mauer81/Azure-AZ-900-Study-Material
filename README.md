@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/robert-mauer81/Azure-AZ-900-Study-Material/assets/156836691/e3f74787-329d-46ce-81db-45c17c1747bc" width=35% height=35%>
+
+
 # AZ-900: Microsoft Azure Fundamentals Study Guide
 
 ## Skills measured
