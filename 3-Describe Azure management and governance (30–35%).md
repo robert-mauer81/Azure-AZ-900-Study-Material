@@ -1,7 +1,10 @@
 # AZ-900: Describe Azure management and governance (30–35%)
 
 ## Describe cost management in Azure
-* [Describe factors that can affect costs in Azure](https://azure.microsoft.com/en-ca/pricing)  didn't provide good information on pricing 
+* [Describe factors that can affect costs in Azure](https://azure.microsoft.com/en-ca/pricing)  didn't provide good information on pricing
+     * Recommend replacing it with one the two links here as the itemize factors that can affect cost
+        * [Link1 turbo360 article](https://turbo360.com/blog/what-causes-azure-costs-to-increase#:~:text=8%20Azure%20cost%20factors%20to%20consider%201%201.Resource,7%207.Third-party%20service%20integration%20...%208%208.Policies%20)
+        * [Link 2 Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure)
 * Compare the [Pricing Calculator](https://azure.microsoft.com/en-ca/pricing/calculator/) and the [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-ca/pricing/tco/calculator/)
 * [Describe Cost Management capabilities in Azure](https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/)
 * [Describe the purpose of Tags](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide)
